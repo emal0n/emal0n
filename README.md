@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=emalon91.emalon91)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```bash
@@ -8,20 +7,20 @@
 printf "zzz...91"
 ```
 #### 📝 P R O J E C T S
-<a href="https://github.com/emalon91/device_motorola_river">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emalon91&repo=device_motorola_river&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="https://github.com/emal0n/device_motorola_river">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emal0n&repo=device_motorola_river&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-<a href="https://github.com/emalon91/device_motorola_ocean">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emalon91&repo=device_motorola_ocean&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="https://github.com/emal0n/device_motorola_ocean">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emal0n&repo=device_motorola_ocean&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-<a href="https://github.com/emalon91/justdoit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emalon91&repo=justdoit&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="https://github.com/emal0n/justdoit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emal0n&repo=justdoit&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-<a href="https://github.com/emalon91/mysqldumps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emalon91&repo=mysqldumps&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="https://github.com/emal0n/mysqldumps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emal0n&repo=mysqldumps&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
 #### 💻 E N V I R O N M E N T
