@@ -14,8 +14,8 @@ printf "Zzz...91"
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emal0n&repo=device_motorola_ocean&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-<a href="https://github.com/emal0n/mysqldumps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emal0n&repo=mysqldumps&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="https://github.com/emal0n/petshop.web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emal0n&repo=petshop.web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
 #### 💻 E n v i r o n m e n t
