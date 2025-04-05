@@ -2,7 +2,7 @@
 #!/usr/bin/zsh
 # -*- coding: utf-8 -*-
 
-print ("Hello earlings👽")
+print("Hello earlings👽")
 ```
 
 <hr>
