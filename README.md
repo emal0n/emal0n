@@ -7,7 +7,7 @@ print("Hello earlings👽")
 
 <hr>
 
-<p>👨‍💻 Aplication Developer at <a href="https://www.rekomendo.com.br/target="blank_">Rekomendo</a></p>
+<p>👨‍💻 Aplication Developer at <a href="https://rekomendo.com.br/">Rekomendo</a></p>
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
