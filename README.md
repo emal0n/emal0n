@@ -6,7 +6,7 @@ print("Welcome")
 ```
 
 <p align="center">
-  <p>Software Engineer. 3+ years of experience.</p>
+  <p>Android Developer with 8 years of experience and Software Engineer. 3+ years of experience.</p>
 <p>Degree in Systems Development from <a href="https://www.senaibahia.com.br/" target="_blank">SENAI Bahia – Feira de Santana Campus</a>.</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,python,docker,fastapi,vim,linux,androidstudio,bash,gcp,nextjs,react,java,spring,angular,kubernetes,aws,redis,nginx,vite,flutter,dart" />
