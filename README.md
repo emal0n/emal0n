@@ -6,7 +6,7 @@ print("nano README.md")
 ```
 <hr>
 <p> Software Engineer: 3+ years building scalable systems, APIs, and cloud-native applications.</p>
-<p>Android Developer: 8+ years delivering high-quality mobile apps and contributing to <strong>AOSP</strong>, with expertise in Android frameworks, performance optimization, and custom system development.</p>
+<p>Android Developer: 8+ years contributing to <strong>AOSP</strong>, with expertise in Android frameworks, device components, and custom system development.</p>
 <p>Degree in Systems Development from <a href="https://www.senaibahia.com.br/" target="_blank">SENAI Bahia – Feira de Santana Campus</a>.</p>
 <hr>
 
