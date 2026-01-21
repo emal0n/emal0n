@@ -5,7 +5,7 @@
       <a href="https://git.io/typing-svg">
       </a>
       <br/>
-      <img src="https://i.imgur.com/MRILS88.gif" width="350" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlmNGF0ZG1odjF0M2RxdWt5cm9zcWpxMGY5MW02N2JhajV5cjEzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3tMiVobwzYB1u/giphy.gif" width="350" />
     </td>
     <td valign="top">
       <p><b>about me:</b><br>
