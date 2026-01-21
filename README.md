@@ -19,7 +19,6 @@
   </tr>
 </table>
 <hr>
-<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=java,go,python,kotlin,spring,aws,redis,postgresql,mysql,docker,mongodb,git,python,docker,fastapi,vim,linux,androidstudio,bash,gcp,nextjs,react,angular,kubernetes,nginx,vite,flutter,dart,npm)](https://skillicons.dev)
 
