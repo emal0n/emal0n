@@ -9,8 +9,10 @@
     </td>
     <td valign="top">
       <p><b>about me:</b><br>
-      tech enthusiast ➧ 21y
-      <br>
+      ➧ tech enthusiast 
+        <br>
+      ➧ 21y
+        <br>
         <br>
       I'm a programmer focusing on full-stack or backend development, and I am currently degree in Systems Development from <a href="https://www.senaibahia.com.br/" target="_blank">SENAI Bahia – Feira de Santana Campus</a>, I'm working as a full-stack swe.
       <br>
