@@ -14,6 +14,9 @@
         <br>
       I'm a programmer focusing on full-stack or backend development, and I am currently degree in Systems Development from <a href="https://www.senaibahia.com.br/" target="_blank">SENAI Bahia – Feira de Santana Campus</a>, I'm working as a full-stack swe.
       <br>
+        <br>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-logo-icon-svg-download-png-3030100.png?f=webp" width="20" height="20"/> <a href="https://www.hackerrank.com/profile/edmundoneto511"> My HackerRank Profile</a>
+        <br>
       </p>
     </td>
   </tr>
